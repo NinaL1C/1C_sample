@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Enum uuid="08cf61ab-219c-4734-ac91-41c1fbb50287">
+		<InternalInfo>
+			<xr:GeneratedType name="EnumRef.ТипыКомиссииЗаБанковскиеПереводы" category="Ref">
+				<xr:TypeId>926370bb-b9a5-4100-9ca3-21d9cb02e560</xr:TypeId>
+				<xr:ValueId>0484c52a-5531-4e4c-8716-71cb264455ce</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumManager.ТипыКомиссииЗаБанковскиеПереводы" category="Manager">
+				<xr:TypeId>c38f3840-2f54-4cfc-ab18-1ce511bdbbbe</xr:TypeId>
+				<xr:ValueId>534cf10f-e849-42ef-83b0-15c924386a3a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumList.ТипыКомиссииЗаБанковскиеПереводы" category="List">
+				<xr:TypeId>c543b1d2-40fe-4a2d-86d4-66258db287be</xr:TypeId>
+				<xr:ValueId>2db3b369-a36a-431b-96e5-e8ee2c6045f3</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ТипыКомиссииЗаБанковскиеПереводы</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>2a6114db-ef78-420d-aa53-3be923e70d65</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects>
+			<EnumValue uuid="10c5fdf7-7a2f-422c-96fc-eb4344c693d1">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>SHA</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>79b19200-3819-40d9-b360-4f8298164166</ExtendedConfigurationObject>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="8f2937c2-160a-4e13-8cf8-82c3319aa266">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>OUR</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>cfdd90c0-fa97-4af1-9dd2-ba542382d7d7</ExtendedConfigurationObject>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="31da43f3-49bb-448f-b533-0f599309c67b">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>BEN</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>21785977-ef12-4fca-b8a7-6b3619f163d3</ExtendedConfigurationObject>
+				</Properties>
+			</EnumValue>
+		</ChildObjects>
+	</Enum>
+</MetaDataObject>
